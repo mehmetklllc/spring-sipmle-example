@@ -1,3 +1,3 @@
-You need added VM options before running project : 
+# You need added VM options before running project : 
 
--Dspring.profiles.active=prod
+# -Dspring.profiles.active=prod
