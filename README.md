@@ -1,1 +1,1 @@
-# spring-sipmle-example
+# custom exception handler for springboot project
