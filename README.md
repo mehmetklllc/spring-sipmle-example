@@ -1,1 +1,1 @@
-# custom exception handler for springboot project
+# simple springboot project
